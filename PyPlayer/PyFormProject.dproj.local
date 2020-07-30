@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.961,=C:\Users\MyasnikovIA\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.391,=C:\Users\MyasnikovIA\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.327,=C:\Users\MyasnikovIA\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.542,=C:\Users\MyasnikovIA\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.480,F:\DelphiProject\App3\PyFormProject.dproj=C:\Users\MyasnikovIA\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.754,F:\DelphiProject\App4\Unit1.pas=F:\DelphiProject\App4\ParseEventUnit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.334,=F:\DelphiProject\App4\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.879,F:\DelphiProject\App3\PyFormUnit.fmx=C:\Users\MyasnikovIA\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.252,=F:\DelphiProject\App4\ModelSupport_PyFormProject\default.txaPackage</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.879,F:\DelphiProject\App3\PyFormUnit.pas=C:\Users\MyasnikovIA\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.636,=F:\DelphiProject\App4\ModelSupport_PyFormProject\default.txvpck</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.456,F:\DelphiProject\App3\ParseDFMUnit.pas=F:\DelphiProject\App3\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.824,=C:\Users\MyasnikovIA\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.872,=C:\Users\MyasnikovIA\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.799,=C:\Users\MyasnikovIA\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.315,=F:\DelphiProject\App3\Unit1.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile Android="86501b76a6f700000000" Android64="86501b76a6f700000000"/>
+	</ActiveMobileDevice>
+</BorlandProject>
